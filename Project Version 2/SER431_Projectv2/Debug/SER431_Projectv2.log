@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\chira\source\repos\ser431_projectv2\ser431_projectv2\core.h(668): warning C4018: '<': signed/unsigned mismatch
+c:\users\chira\source\repos\ser431_projectv2\ser431_projectv2\core.h(695): warning C4018: '<': signed/unsigned mismatch
+c:\users\chira\source\repos\ser431_projectv2\ser431_projectv2\main.cpp(885): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SER431_Projectv2.vcxproj -> C:\Users\chira\source\repos\SER431_Projectv2\Debug\SER431_Projectv2.exe
