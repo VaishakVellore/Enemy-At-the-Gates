@@ -43,4 +43,6 @@ System Requirements:
 •	128 MB Video Card
 •	If Linux/Mac have wine installed
 
+YouTube Link: https://www.youtube.com/watch?v=lT9l_htVm3g&t=111s
+
 
